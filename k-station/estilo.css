@@ -1,0 +1,306 @@
+body{
+    align-items: center;
+    background-color: black;
+}
+
+
+.header {
+    background-color:black;
+        padding-bottom: 15px;
+}
+
+/*logo*/
+.logo{
+    width: 100%;
+    max-width: 90px;
+    margin-top: -15px;
+}
+
+.logo_area {
+    padding: 20px;
+    color: #fd405e;
+}
+
+.logo_area h1 {
+    width: 100%;
+    margin-left: 105px;
+    margin-top: -65px;
+}
+/*logo fim*/
+
+
+/*menu login*/
+.justify-content-end{
+    margin-top: -25px;
+    margin-right: -10px;
+}
+/*menu login fim*/
+
+
+/*menu principal*/
+.nav-pills {
+    padding-left: 15px;
+}
+
+.nav-pills a {
+    background-color: #fd405e;
+    color: white;
+    text-align: center;
+}
+
+.nav-pills a:hover {
+    background-color: #d33c55;
+}
+
+.menu-principal .active {
+    background-color: #d33c55 !important; 
+}
+
+.nav-item a {
+    font-size: 12px;
+    color: white;
+}
+
+.nav-pills{
+    margin-top: 3px;
+}
+/*menu principal fim*/
+
+
+
+
+.main {
+    background-color: black;
+}
+
+
+
+
+/*carrossel*/
+.carousel-item a {
+    text-decoration: none;
+    color: white;
+}
+
+.carrossel{
+    padding: 0px;
+}
+
+.carousel-item a:hover {
+    color: #a8a8a8;
+}
+/*carrossel fim*/
+
+
+
+
+/*primeiro card noticia*/
+.primeiro-card {
+    padding-top: 15px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.wonhocard{
+    color:black;
+    background-color: black;
+    margin: -1px;
+}
+
+.cardwonho{
+    padding: 0px;
+    text-align: left;
+}
+
+.card-img-wonho{
+    max-width: 273px;
+    width: 100%;
+    max-height: 273px;
+    
+}
+
+.img-wonho{
+    padding: 0px;
+    
+}
+
+.text-wonho{
+    padding: 0px;
+}
+
+.card-body-wonho{
+    background-color: black;
+    color: white;
+    max-height: 273px;
+}
+
+.card-body-wonho p{
+    font-size: 14px;
+    max-width: 273px;
+    width: 100%;  
+    text-align: justify;
+}
+
+.continue-lendo{
+    color: #fd405e;
+}
+
+.card-body-wonho a:hover{
+    color: rgb(146, 146, 146);
+}
+
+/*primeiro card noticia fim*/
+
+
+
+
+
+/*cards*/
+.card{
+    background-color: black;
+}
+
+.novos-cards {
+    text-align: justify;
+}
+
+.outros-cards{
+    background-color: black;
+    color: white;
+    padding-left: 0px;
+}
+
+.outros-cards img{
+    width: 100%;
+    max-width: 273px;
+}
+
+.outros-cards p{
+    font-size: 13px;
+}
+
+.attcard{
+    padding-top: 35px;
+}
+
+
+/*cards fim*/
+
+
+
+
+/*section lateral*/
+.estudio-dança{
+    background-color:  #fd405e;
+    width: 100%;
+}
+
+.estudio-dança a:hover{
+    color: rgb(231, 231, 231);
+    background-color: #d33c55;
+}
+
+.link-estudio-dança{
+    color: white;
+    text-align: left !important;   
+}
+
+.lateral{
+    padding-right: 0px;
+}
+
+.myohimg{
+    width: 100%;
+    max-width: 130px;
+}
+
+.phyimg {
+    width: 100%;
+    max-width: 130px;
+}
+
+
+.monsterimg{
+    width: 100%;
+    max-width: 130px;
+}
+
+.onemillionvid1{
+    padding-top: 15px;
+}
+
+.onemillionvid2{
+    padding-top: 15px;
+}
+
+.alienvid{
+    padding-top: 15px;
+}
+
+.onemillionvid1 a{
+    color: rgb(231, 231, 231);
+}
+
+.onemillionvid2 a{
+    color: rgb(231, 231, 231);
+}
+
+.alienvid a{
+    color: rgb(231, 231, 231);
+}
+
+
+/*section lateral fim*/
+
+
+
+
+
+
+/*infos de rodapé*/
+.infos{
+    padding-top: 15px;
+    color: rgb(146, 146, 146);
+    max-height: 270px;
+}
+
+.infos p{
+    font-size: 12px;
+}
+
+.infos a{
+    color:rgb(146, 146, 146) ;
+    font-size: 12px;
+}
+
+.infos .active{
+    color: rgb(206, 206, 206);
+    text-decoration: underline;
+}
+
+/*infos1*/
+
+/*infos2*/
+
+/*infos3*/
+
+/*infos de rodapé fim*/
+
+
+
+/*rodapé*/
+.footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 10px;
+    font-size: small;
+}
+/*rodapé fim*/
+
+
+
+/*menu mobile*/
+
+/*menu mobile fim*/
+
